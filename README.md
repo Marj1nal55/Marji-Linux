@@ -20,6 +20,7 @@ git clone https://github.com/Marj1nal55/Marji-Linux.git
 cd Marji-Linux
 sudo mkarchiso -v -o out/ .
 
+'''
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
