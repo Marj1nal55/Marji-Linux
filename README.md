@@ -10,6 +10,10 @@ Marji-Linux is a personal, experimental Arch-based distro — built to learn how
 
 🚧 Work in progress — early development stage.
 
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
+
 ## Build
 
 This project is based on the `releng` archiso profile.
@@ -20,7 +24,4 @@ git clone https://github.com/Marj1nal55/Marji-Linux.git
 cd Marji-Linux
 sudo mkarchiso -v -o out/ .
 
-'''
-## License
 
-MIT — see [LICENSE](LICENSE) for details.
