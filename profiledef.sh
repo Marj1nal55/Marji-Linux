@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="marjilinux"
-iso_label="MARJİ_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
+iso_label="MARJI_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="Marj1nal55 <https://github.com/Marj1nal55>"
 iso_application="Marji-Linux"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
